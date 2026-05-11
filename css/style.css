@@ -1,32 +1,29 @@
-    body{
-        background-color: #000000;
-        color:#e8e6df;
-        font-family: sans-serif;
-    }
-
-    .navbar {
-        background-color: gold;
+  .navbar {
+        background-color: white;
         color: #e8e6df;
         padding: 10px;
         text-align: left;
     }
 
     .header {
-        background-color: #2522dd;
+        background-color: white;
         padding: 40px;
         text-align: center;
         border-bottom: 2px solid #e8e6df;
     }
 
     .body {
+        background-color: white;
+        color:black;
+        font-family: sans-serif;
         padding: 60px;
         text-align: center;
         min-height: 300px;
     }
 
     .footer {
-            background-color: #333;
-            color: white;
+            background-color:white;
+            color: #333;
             text-align: center;
             padding: 15px;
             position: relative;
@@ -34,12 +31,12 @@
 
 
     h1{ 
-        color:#e8e6df;
+        color:goldenrod;
         font-family: cursive;
     }
 
     h2{ 
-        color:#1f5e63;
+        color:goldenrod;
         font-family: cursive;
     }
 
