@@ -1,18 +1,18 @@
     body{
-        background-color: #8faf9a;
+        background-color: #000000;
         color:#e8e6df;
         font-family: sans-serif;
     }
 
     .navbar {
-        background-color: #1f5e63;
+        background-color: gold;
         color: #e8e6df;
         padding: 10px;
         text-align: left;
     }
 
     .header {
-        background-color: #1f5e63;
+        background-color: #2522dd;
         padding: 40px;
         text-align: center;
         border-bottom: 2px solid #e8e6df;
